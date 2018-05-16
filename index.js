@@ -32,6 +32,7 @@ function currentLine(katzDeliLine) {
       str += " " + (i + 1) + ". " + katzDeliLine[i] + ",";
     }
     str.length--;
+    str.length--;
     return str;
   }
 }
