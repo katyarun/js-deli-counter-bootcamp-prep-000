@@ -11,6 +11,9 @@ const katzDeliLine = ["name1", 'name2'];
 // takeANumber(katzDeliLine, "i petrov");
 
 function nowServing(katzDeliLine) {
+  if (katzDeliLine.length === 0) {
+    return "";
+  }
   return `Currently serving ${katzDeliLine.shift()}.`;
 }
 
