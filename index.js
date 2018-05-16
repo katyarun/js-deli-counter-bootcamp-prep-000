@@ -9,3 +9,7 @@ function takeANumber(katzDeliLine, name) {
 
 const katzDeliLine = ["name1", 'name2'];
 takeANumber(katzDeliLine, "i petrov");
+
+function nowServing() {
+  
+}
