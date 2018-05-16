@@ -18,3 +18,4 @@ function nowServing(katzDeliLine) {
 // console.log(katzDeliLine);
 console.log(nowServing(katzDeliLine));
 console.log(nowServing(katzDeliLine));
+console.log(nowServing(katzDeliLine));
