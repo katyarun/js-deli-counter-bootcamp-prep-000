@@ -31,8 +31,8 @@ function currentLine(katzDeliLine) {
     for (let i = 0; i < katzDeliLine.length; i++) {
       str += " " + (i + 1) + ". " + katzDeliLine[i] + ",";
     }
-    str.slice(0, str.length - 1);
-    return str;
+    
+    return str.slice(0, str.length - 1);
   }
 }
 
