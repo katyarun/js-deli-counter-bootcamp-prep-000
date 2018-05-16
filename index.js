@@ -16,3 +16,4 @@ const katzDeliLine = ["name1", 'name2'];
 // }
 
 console.log(katzDeliLine.unshift());
+console.log(katzDeliLine);
