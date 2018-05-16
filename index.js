@@ -36,4 +36,4 @@ function currentLine(katzDeliLine) {
   }
 }
 
-// console.log(currentLine(katzDeliLine));
+console.log(currentLine(katzDeliLine));
