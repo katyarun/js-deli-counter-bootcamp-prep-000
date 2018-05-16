@@ -17,3 +17,4 @@ function nowServing(katzDeliLine) {
 // console.log(katzDeliLine.shift());
 // console.log(katzDeliLine);
 console.log(nowServing(katzDeliLine));
+console.log(nowServing(katzDeliLine));
