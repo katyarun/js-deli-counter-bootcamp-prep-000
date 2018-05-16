@@ -15,5 +15,5 @@ const katzDeliLine = ["name1", 'name2'];
   // return "Currently serving Grace.";
 // }
 
-console.log(katzDeliLine.unshift());
+console.log(katzDeliLine.shift());
 console.log(katzDeliLine);
