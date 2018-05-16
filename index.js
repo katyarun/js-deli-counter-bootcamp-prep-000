@@ -12,13 +12,13 @@ const katzDeliLine = ["name1", 'name2'];
 
 function nowServing(katzDeliLine) {
   if (katzDeliLine.length === 0) {
-    return "";
+    return "There is nobody waiting to be served!";
   }
   return `Currently serving ${katzDeliLine.shift()}.`;
 }
 
 // console.log(katzDeliLine.shift());
 // console.log(katzDeliLine);
-console.log(nowServing(katzDeliLine));
-console.log(nowServing(katzDeliLine));
-console.log(nowServing(katzDeliLine));
+// console.log(nowServing(katzDeliLine));
+// console.log(nowServing(katzDeliLine));
+// console.log(nowServing(katzDeliLine));
